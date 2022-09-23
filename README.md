@@ -4,6 +4,8 @@ Command line program for creating and modifying `idx` and `bag` files from Westw
 
 Currently only the formats from Command & Conquer: Red Alert 2 and Emperor: Battle for Dune are supported. However MPEG-3 audio file support for latter is not implemented currently.
 
+Latest automatically generated release can be found [here](https://github.com/Starkku/BagFileTool/releases/tag/latest).
+
 Accepted parameters:
 ```
 -h, -?, --help                Show help.
